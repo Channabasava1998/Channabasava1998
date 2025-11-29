@@ -1,8 +1,20 @@
 # Hi, I'm Channabasava Wadgave 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/channabasava-wadgave)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:channabasavawadgave@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Channabasava1998)
+
+---
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Channabasava1998&theme=pop&no-bg=true" alt="GitHub Trophies"/>
+</p>
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg" alt="snake" />
+</p>
 
 ---
 
@@ -20,7 +32,17 @@
 ## Skills
 
 **Languages & Tools:**  
-Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Excel | Jupyter Notebook
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-306998?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.sql.org)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 **Data Science & Analytics:**  
 EDA | Data Preparation | Statistical Analysis | ANOVA | Test & Learn Design | ROI & Lift Calculation | Matching Algorithms
@@ -46,12 +68,24 @@ Problem-solving | Team Collaboration | Project Delivery | Client Communication
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Top Languages
 
-![Channabasava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChannabasavaWadgave&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Channabasava1998&show_icons=true&theme=pop" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channabasava1998&layout=compact&theme=pop" alt="Top Languages" />
+</p>
 
 ---
 
-## Contact Me
+## ✍️ Random Dev Quote
 
-Feel free to reach out if you want to collaborate or discuss data science projects!
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=dev" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 🌐 Socials
+
+- [LinkedIn](https://www.linkedin.com/in/channabasava-wadgave)  
+- Email: your-email@example.com
