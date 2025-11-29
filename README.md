@@ -6,18 +6,6 @@
 
 ---
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Channabasava1998&theme=pop&no-bg=true" alt="GitHub Trophies"/>
-</p>
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg" alt="snake" />
-</p>
-
----
-
 ## About Me
 
 - 🎓 **Data Scientist** with 2+ years of experience at **Definitive Healthcare**  
@@ -89,3 +77,9 @@ Problem-solving | Team Collaboration | Project Delivery | Client Communication
 
 - [LinkedIn](https://www.linkedin.com/in/channabasava-wadgave)  
 - Email: your-email@example.com
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Channabasava1998&theme=pop&no-bg=true" alt="GitHub Trophies"/>
+</p>
